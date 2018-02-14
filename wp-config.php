@@ -30,7 +30,7 @@ define('DB_PASSWORD', '@lexisLeonel2018');
 /** Host de MySQL (es muy probable que no necesites cambiarlo) */
 /* define('DB_HOST', 'localhost'); */
 define('DB_HOST', '40.69.184.225');
-
+ */
 /** Codificación de caracteres para la base de datos. */
 define('DB_CHARSET', 'utf8mb4');
 
