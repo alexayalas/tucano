@@ -24,11 +24,11 @@ define('DB_NAME', 'tucano');
 define('DB_USER', 'alexisadmin');
 
 /** Tu contraseña de MySQL */
-/* define('DB_PASSWORD', '');*/
+/* define('DB_PASSWORD', ''); */
 define('DB_PASSWORD', '@lexisLeonel2018');
 
 /** Host de MySQL (es muy probable que no necesites cambiarlo) */
-/* define('DB_HOST', 'localhost');*/
+/* define('DB_HOST', 'localhost'); */
 define('DB_HOST', '40.69.184.225');
 
 /** Codificación de caracteres para la base de datos. */
