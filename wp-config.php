@@ -21,15 +21,15 @@ define('DB_NAME', 'tucano');
 
 /** Tu nombre de usuario de MySQL */
 /* define('DB_USER', 'root'); */
-define('DB_USER', 'alexisadmin');
+define('DB_USER', 'b020b8e87195c4');
 
 /** Tu contraseña de MySQL */
 /* define('DB_PASSWORD', ''); */
-define('DB_PASSWORD', '@lexisLeonel2018');
+define('DB_PASSWORD', 'f860720b');
 
 /** Host de MySQL (es muy probable que no necesites cambiarlo) */
 /* define('DB_HOST', 'localhost'); */
-define('DB_HOST', '40.69.184.225');
+define('DB_HOST', 'br-cdbr-azure-south-b.cloudapp.net');
 
 /** Codificación de caracteres para la base de datos. */
 define('DB_CHARSET', 'utf8mb4');
