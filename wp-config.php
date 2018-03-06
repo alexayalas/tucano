@@ -29,6 +29,7 @@ define('DB_PASSWORD', 'f860720b');
 
 /** Host de MySQL (es muy probable que no necesites cambiarlo) */
 /* define('DB_HOST', 'localhost'); */
+/* cambio de prueba*/
 define('DB_HOST', 'br-cdbr-azure-south-b.cloudapp.net');
 
 /** Codificación de caracteres para la base de datos. */
