@@ -16,21 +16,21 @@
 
 // ** Ajustes de MySQL. Solicita estos datos a tu proveedor de alojamiento web. ** //
 /** El nombre de tu base de datos de WordPress */
-define('DB_NAME', 'tucano');
+define('DB_NAME', 'tucanope_tucanowp');
 /* define('DB_NAME', 'heroku_160174134584927'); */
 
 /** Tu nombre de usuario de MySQL */
 /* define('DB_USER', 'root'); */
-define('DB_USER', 'b020b8e87195c4');
+define('DB_USER', 'tucanope_wp');
 
 /** Tu contraseña de MySQL */
 /* define('DB_PASSWORD', ''); */
-define('DB_PASSWORD', 'f860720b');
+define('DB_PASSWORD', 'Alejo2016');
 
 /** Host de MySQL (es muy probable que no necesites cambiarlo) */
 /* define('DB_HOST', 'localhost'); */
 /* cambio de prueba*/
-define('DB_HOST', 'br-cdbr-azure-south-b.cloudapp.net');
+define('DB_HOST', '192.254.211.10');
 
 /** Codificación de caracteres para la base de datos. */
 define('DB_CHARSET', 'utf8mb4');
