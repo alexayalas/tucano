@@ -25,12 +25,12 @@ define('DB_USER', 'alejo');
 
 /** Tu contraseña de MySQL */
 /* define('DB_PASSWORD', ''); */
-define('DB_PASSWORD', 'Alexis2017');
+define('DB_PASSWORD', 'Alexis2016');
 
 /** Host de MySQL (es muy probable que no necesites cambiarlo) */
 /* define('DB_HOST', 'localhost'); */
 /* cambio de prueba*/
-define('DB_HOST', 'varicenbd.cx5f1zkgu5nb.us-east-2.rds.amazonaws.com');
+define('DB_HOST', '52.173.19.184');
 
 /** Codificación de caracteres para la base de datos. */
 define('DB_CHARSET', 'utf8mb4');
